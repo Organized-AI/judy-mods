@@ -1,0 +1,9 @@
+{
+  "name": "judy-board",
+  "version": "0.1.0",
+  "description": "Judy the Judge's Live Board in a pane, a status line and toasts when teams file or verdicts land (Gavel & Gown, Organized AI).",
+  "author": {
+    "name": "Jordan Hill"
+  },
+  "types": "./types/index.d.ts"
+}

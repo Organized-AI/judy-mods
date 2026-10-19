@@ -1,0 +1,6 @@
+{
+  "name": "judy-guard",
+  "version": "0.1.0",
+  "description": "Keeps Judy the Judge's rules automatic: no court code or Keychain secret in files, commits or the transcript, no bare wrangler deploy for Judy, and Jev only through jev-gateway.",
+  "author": { "name": "Jordan Hill" }
+}

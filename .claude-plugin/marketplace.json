@@ -1,0 +1,17 @@
+{
+  "name": "judy-mods",
+  "owner": { "name": "Jordan Hill" },
+  "description": "Claude Code mods for Judy the Judge (Gavel & Gown, Organized AI): the Live Board in a pane, and the project's rules on every tool call.",
+  "plugins": [
+    {
+      "name": "judy-board",
+      "source": "./judy-board",
+      "description": "Judy the Judge's Live Board in a pane beside the chat, a status line, and toasts when teams file or verdicts land."
+    },
+    {
+      "name": "judy-guard",
+      "source": "./judy-guard",
+      "description": "Judy the Judge's project rules, checked on every tool call: court code and secrets stay out of files, Judy deploys through its gate, Jev only through jev-gateway."
+    }
+  ]
+}
